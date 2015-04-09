@@ -8,7 +8,7 @@ addOns[] = {"A3_Soft_F_Car","A3_Soft_F_Quadbike","a3_soft_f_beta_quadbike","A3_B
 	"mas_uh1y",
 	"mas_hmmwv",
 	"mas_ch47",
-	"mas_mi8",
+	"mas_mi8",			//@MAS Weapon and Vehicle AddOns
 	"mas_brdm",
 	"mas_uh60m",
 	"mas_cars_lr",
